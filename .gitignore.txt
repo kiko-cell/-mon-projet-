@@ -1,0 +1,12 @@
+# Ignorer les fichiers système
+*.log
+*.dat
+*.ini
+.VirtualBox/
+.idlerc/
+.streamlit/
+OneDrive/
+Documents/
+Pictures/
+Downloads/
+Videos/

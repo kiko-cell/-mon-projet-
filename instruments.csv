@@ -1,0 +1,5 @@
+Nom,Type,Date_derniere_verification,Date_prochaine_verification,Statut,Jours_restants,Etat
+Dosimètre A,Dosimètre,2024-10-15,2025-10-15,Conforme,170.0,Conforme
+Radiamètre B,Radiamètre,2024-05-01,2025-05-01,Conforme,3.0,Conforme
+Contaminamètre C,Contaminamètre,2024-04-01,2025-04-01,Non conforme,-27.0,Non conforme
+dosimètre électronique ,,2025-04-28,2026-04-28,,,
